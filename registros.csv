@@ -1,8 +1,183 @@
-Numero de Parte o SKU,Descripcion,Presentacion,Marca,Costo,Moneda,% de Importacion,Precio al Publico,ESPRO,Fecha Lista de Precio,Validado por ESPRO
-01915_9,NON-ELECTRIC STERILIZER Inner Container Capacity 9.5 qt. / 9 liter Gross Capacity: 15 qt. / 14 liter ,Paquete,All American,$274.55,USD,0%,$534.99,Luis Canamar,12/3/2024,No
-01925_8,NON-ELECTRIC STERILIZER Inner Container Capacity 17.6 qt. / 16.6 liter Gross Capacity:  25 qt. / 24 liter ,Paquete,All American,$293.55,USD,0%,$584.99,Luis Canamar,12/3/2024,No
-01941_8,NON-ELECTRIC STERILIZER Inner Container Capacity 27.9 qt. / 26.4 liter Gross Capacity:  41 qt. / 39 liter ,Paquete,All American,$497.80,USD,0%,$994.99,Luis Canamar,12/3/2024,No
-50120_3,ELECTRIC STERILIZER Inner Container Capacity  14.5 qt. / 13.7 Liter Gross Capacity:  25 qt. / 24 Liter 120 Volt 50/60 Hz 1650 watts/13.75 amps,Paquete,All American,$588.05,USD,0%,"$1,174.99",Luis Canamar,12/3/2024,No
-50240_8,ELECTRIC STERILIZER Inner Container Capacity  14.5 qt. / 13.7 liter Gross Capacity:  25 qt. / 24 liter 240 Volt 50/60 Hz 1650 watts/6.88 amps,Paquete,All American,$598.05,USD,0%,"$1,194.99",Luis Canamar,12/3/2024,No
-75120_2,ELECTRIC STERILIZER Inner Container Capacity 27.3 qt. / 25.8 liter Gross Capacity: 41 qt. / 39 liter 120 Volt 50/60 Hz 1650 Watts/13.75 amps,Paquete,All American,$764.75,USD,0%,"$1,554.99",Luis Canamar,12/3/2024,No
-75240_7,ELECTRIC STERILIZER Inner Container Capacity 27.3 qt. / 25.8 liter Gross Capacity: 41 qt. / 39 liter 240 Volt 50/60 Hz 1650 Watts/6.88 amps,Paquete,All American,$774.75,USD,0%,"$1,574.99",Luis Canamar,12/3/2024,No
+﻿Numero de Parte o SKU,Descripcion,Presentacion,Marca,Costo,Moneda,% de Importacion,Precio al Publico,ESPRO,Fecha Lista de Precio,Validado por ESPRO,Comentarios,Borrar
+MLA1250,"The MLA1250 is a set of high fidelity stereo headphones to suit the FE132 or FE231 Bio Amp, FE135 or FE232 Dual Bio Amp or any PowerLab with an audio output connector (High impedance).",Pieza,Dick Smith Electronics,$40.00,USD,100%,$55.00,Sandra Sanchez,03/12/2024,Si,"el precio al publico es el sugerido por el proveedor, pero considero que CTR pudiera manejar un mejor margen de utilidad sin pasar del 25% y considerando 10% de importación.",
+TN1750/ST,The TN750/ST Goniometer includes the Biometrics SG-150 Twin Axis Goniometer (Hip/Knee) along with the MLAC85 and MLAC86 cable set for connecting to a PowerLab Pod Port.,Pieza,Biometrics,"$1,040.00",USD,100%,"$1,390.00",Sandra Sanchez,03/12/2024,Si,"el precio al publico es el sugerido por el proveedor, pero considero que CTR pudiera manejar un mejor margen de utilidad sin pasar del 25% y considerando 10% de importación.",
+260457,Dispenser Sensi-Disc Single 1 Ea,1,BDMicrobiologia,"$1,167.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+260640,Dispenser Sensi-Disc Designer System,1,BDMicrobiologia,"$18,804.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+260660,Dispenser Sensi-Disc Self Tamping 8Place,1,BDMicrobiologia,"$22,462.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+260661,Dispenser Sensi-Disc Self Tamping 6Place,1,BDMicrobiologia,"$21,173.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+291255,Disc Ceftiofur 1 Ea,1,BDMicrobiologia,$367.00,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+440107,STARTER GROUP 960 INTRUMENT BACTEC MIGT,1,BDMicrobiologia,"$32,941.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+441743,INSTRUMENT BACTEC MGIT 320,1,BDMicrobiologia,"$858,626.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+445870,INSTRUMENTO BACTEC MGIT 960,1,BDMicrobiologia,"$1,446,160.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+445871,Calibrator Kit Mgit 960,1,BDMicrobiologia,"$7,667.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+445872,THERMOMETER DIGITAL BACTEC,1,BDMicrobiologia,"$3,779.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+215348,Vial Kanamycin Sulfate,6,BDMicrobiologia,"$5,628.60",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+215349,Vial Moxifloxacin Hydrochloride,6,BDMicrobiologia,"$8,961.30",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+215350,Vial Amikacin,6,BDMicrobiologia,"$5,638.80",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+215351,Vial Capreomycin Sulfate,6,BDMicrobiologia,"$8,961.30",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+215352,Vial Ofloxacin,6,BDMicrobiologia,"$5,667.40",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+215404,Vial Moxifloxacin Hydrochloride 249 ug,6,BDMicrobiologia,"$8,631.70",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+240862,Kit Mycoprep 75Ml,1,BDMicrobiologia,"$3,847.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245111,Tube Mgit 25 Ea,25,BDMicrobiologia,"$5,450.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245114,Vial Mgit Panta Antibiotic Mixture,6,BDMicrobiologia,"$6,662.30",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245115,Tube Pza Medium 25 Pak Mgit 960,25,BDMicrobiologia,"$6,117.40",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245116,Vial Mgit Oadc Enrichment,6,BDMicrobiologia,"$1,556.20",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245122,Tube Bactec Mgit 7Ml,100,BDMicrobiologia,"$21,735.80",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245123,Kit Bactec Mgit 960 Sire,1,BDMicrobiologia,"$6,529.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245124,Kit Bactec Mgit 960 Supplement 100 Test,1,BDMicrobiologia,"$8,724.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245126,Kit Bactec 960 Isoniazid 0.4 Kit,1,BDMicrobiologia,"$2,620.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245128,Kit Drug Pza Mgit,1,BDMicrobiologia,"$11,854.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+245159,Mgit Tbc Identification Test,25,BDMicrobiologia,"$8,259.20",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+445941,KIT DE INICIO MGIT 960 AST,1,BDMicrobiologia,"$15,650.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+445943,Set Ast Carrier 5 Tube,1,BDMicrobiologia,"$1,648.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+445945,Set Ast Carrier 3 Tube,1,BDMicrobiologia,"$1,480.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+445946,Set Ast Carrier 2 Tube,1,BDMicrobiologia,"$1,673.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220093,Cultureswab Liquid Amies Single Swab,50,BDMicrobiologia,"$1,203.10",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220097,Cultureswab Cary-Blair Agar Single Swab,50,BDMicrobiologia,"$1,353.10",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220099,Cultureswab Liquid Stuart Single Swab,50,BDMicrobiologia,"$1,034.70",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220109,Cultureswab Liquid Stuart Double Swab,50,BDMicrobiologia,"$1,648.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220115,Cultureswab Sterile Single Swab,100,BDMicrobiologia,"$1,196.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220116,Cultureswab Plus Amies W/O Charc Single,50,BDMicrobiologia,$898.00,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220121,Cultureswab Plus Amies Charcoal Single,50,BDMicrobiologia,"$1,014.30",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220133,Cultureswab Stuart Soft Wire,50,BDMicrobiologia,"$3,924.50",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220144,Cultureswab Easy Swabs Single,100,BDMicrobiologia,"$2,231.70",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+290020,Sterile Collection System Falcon Sputum,72,BDMicrobiologia,"$4,351.10",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+211644,CALDO SELENITO Y CISTINA PTM CAJA C/10,10,BDMicrobiologia,$434.70,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+212090,Lysine Iron Agar Ptm 10Ea,10,BDMicrobiologia,$244.90,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220908,Tube Lowenstein-Jensen Med Sl A 10 Ea,10,BDMicrobiologia,$675.60,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+220909,Tube Lowenstein-Jensen Med Sl A 100 Ea,100,BDMicrobiologia,"$7,147.00",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+221787,Tube Thioglycollate Vit K Hem 8Ml 10 Ea,10,BDMicrobiologia,$520.50,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+251810,Tube Orange Serum Br Conc 6 Ea,6,BDMicrobiologia,"$11,217.40",MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252515,Triple Sugar Iron Agar Ptm 10Ea,10,BDMicrobiologia,$326.60,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252517,Mio Medium Ptm 10Ea,10,BDMicrobiologia,$315.40,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252532,Tetrathionate Broth Base 10Ea,10,BDMicrobiologia,$321.50,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252533,Brain Heart Infusion Ptm 10Ea,10,BDMicrobiologia,$362.30,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252534,Sodium Selenite Brothptm 10Ea,10,BDMicrobiologia,$419.40,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252539,Biggy Agar Ptm 10 Ea,10,BDMicrobiologia,$306.20,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252556,Sabouraud Dextrose Agar Ptm 10Ea,10,BDMicrobiologia,$338.80,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252557,Micobiotic Agar Ptm 10Ea,10,BDMicrobiologia,$300.00,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252558,MEDIO TIOGLICOL S/DEXT S/IND PTM CAJ/10,10,BDMicrobiologia,$396.00,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+252625,CALDO INF CER COR 10ML PTM CAJA C/10,10,BDMicrobiologia,$391.90,MXN,0%,,Jorge Lopez,04/04/2024,Si,,NO
+PHOTOFLEX13,"Adapter, V-3000, 13mm",EA,Chemetrics, $144.05 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-6702,Molybdate Refill,EA,Chemetrics, $22.69 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-6720,Molybdate Refill,EA,Chemetrics, $23.88 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7002,Nitrite / Nitrate Refill,EA,Chemetrics, $23.88 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7006,Nitrite Refill,EA,Chemetrics, $23.88 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7404,Ozone / Chlorine Dioxide Refill,EA,Chemetrics, $21.64 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7501,"Oxygen Refill, Dissolved",EA,Chemetrics, $23.88 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7510,Dissolved Oxygen Refill,EA,Chemetrics, $23.97 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7511,"Oxygen Refill, Dissolved",EA,Chemetrics, $94.84 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7512,"Oxygen Refill, Dissolved",EA,Chemetrics, $23.88 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7518,"Oxygen Refill, Dissolved",EA,Chemetrics, $25.54 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7540,"Oxygen Refill, Dissolved",EA,Chemetrics, $25.54 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-7904,Bromine / PAA / Peroxide Refill,EA,Chemetrics, $22.76 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-8012,Phenols Refill,EA,Chemetrics, $25.54 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-8510,Phosphate (Ortho) Refill,EA,Chemetrics, $22.69 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-8515,Phosphate (Ortho) Refill,EA,Chemetrics, $22.69 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-9010,Silica Refill,EA,Chemetrics, $22.69 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-9011,Silica Refill,EA,Chemetrics, $93.45 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-9400,Detergents Refill,EA,Chemetrics, $56.86 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-9423,Detergents,EA,Chemetrics, $62.53 ,USD,,,Elsy Cejudo,13/01/2025,,,
+R-9510,"Sulfide Refill, Total Soluble",EA,Chemetrics, $23.88 ,USD,,,Elsy Cejudo,13/01/2025,,,
+V-0002,V-2000 Verification Kit,EA,Chemetrics, $60.24 ,USD,,,Elsy Cejudo,13/01/2025,,,
+V-2000,Multi-Analyte LED Photometer,EA,Chemetrics," $1,100.82 ",USD,,,Elsy Cejudo,13/01/2025,,,
+V-3000,Multi-Analyte LED Photometer,EA,Chemetrics," $1,199.76 ",USD,,,Elsy Cejudo,13/01/2025,,,
+VE-M1,Microscopio Monocular Biológico (Básico),,VELAB, $108.80 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-M3,Microscopio Monocular Biológico (Intermedio),,VELAB, $207.20 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-M4,Microscopio monocular biológico con triple revolver (intermedio),,VELAB, $249.60 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-M5,Microscopio monocular biológico con cuádruple revolver (intermedio),,VELAB, $272.80 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-M5D,Microscopio monocular biológico con cámara digital integrada de 3.0 MP,,VELAB, $465.60 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-LX1400,Cámara de de USB para PC de 14.0 MP,,VELAB, $616.00 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-LX1800,Cámara de de USB para PC de 18.0 MP,,VELAB, $717.60 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-WUCAM0720PA,Cámara de microscopio WIFI de 2.0 MP (720p),,VELAB, $376.80 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-CLEAN,Kit de limpieza de microscopio,,VELAB, $15.20 ,USD,,,Elsy Cejudo,13/01/2025,,,
+VE-SLIDES,Slides para microscopio,,VELAB, $7.20 ,USD,,,Elsy Cejudo,13/01/2025,,,
+4138,"TIPS, 200UL NAT GRAD LOW BIND BARRIER IN HINGED RACKS,S,BK,960/3840",3840,CORNING," $7,218.56 ",MXN,N/A," $10,312.23 ",Evert Ramirez,08/01/2025,,,
+3679,"PLT,96WL,HALF AREA,UV,NT,RNASE/DNASE FREE,NS,BK,25/50",50,CORNING," $6,719.68 ",MXN,N/A," $9,599.54 ",Evert Ramirez,08/01/2025,,,
+3575,"PLT,384WL,BLK,LOW FLANGE,NBS,WO/LID,NS,BK,10/50",50,CORNING," $5,029.35 ",MXN,N/A," $7,184.78 ",Evert Ramirez,08/01/2025,,,
+3688,"PLT,96WL,FB,A/2,WHT,TCT,W/LID,S,BK,25/100",100,CORNING," $3,749.91 ",MXN,N/A," $5,357.01 ",Evert Ramirez,08/01/2025,,,
+3690,"PLT,96WL,EIA,A/2,FB,HB,WO/LID,NS,BK,25/100",100,CORNING," $3,886.31 ",MXN,N/A," $5,551.87 ",Evert Ramirez,08/01/2025,,,
+3695,"PLT,96WL,FB,A/2,CLR,NT,WO/LID,NS,BK,25/100",100,CORNING," $3,515.86 ",MXN,N/A," $5,022.66 ",Evert Ramirez,08/01/2025,,,
+3697,"PLT,96WL,FB,A/2,CLR,TCT,W/LID,S,BK,20/100",100,CORNING," $3,996.88 ",MXN,N/A," $5,709.83 ",Evert Ramirez,08/01/2025,,,
+3880,"PLT,96WL,BCB,HALF AREA,NT,NS,BK,25/100",100,CORNING," $10,126.85 ",MXN,N/A," $14,466.93 ",Evert Ramirez,08/01/2025,,,
+3882,"PLT,96WL,BCB,HALF AREA,W/LID,TCT,S,BK,20/100",100,CORNING," $13,163.30 ",MXN,N/A," $18,804.71 ",Evert Ramirez,08/01/2025,,,
+3614,"PLT,96WL,FB,SP OPT,BCB,TCT,WO/LID,S,BK,25/100",100,CORNING," $6,423.11 ",MXN,N/A," $9,175.87 ",Evert Ramirez,08/01/2025,,,
+3615,"PLT,96WL,FB,SP OPT,BCB,NT,WO/LID,NS,BK,25/100",100,CORNING," $6,996.85 ",MXN,N/A," $9,995.50 ",Evert Ramirez,08/01/2025,,,
+4580,"PLATE,96WL,A/2,GLASS BOTTOM, HCS MICROPLATE,S,IND,1/10",10,CORNING," $7,816.71 ",MXN,N/A," $11,166.73 ",Evert Ramirez,08/01/2025,,,
+3641,"PLT,96WL,CLR/CLR,NON-BINDING,NBS,NS,BK,25/100",100,CORNING," $4,451.86 ",MXN,N/A," $6,359.79 ",Evert Ramirez,08/01/2025,,,
+3650,"PLT,96WL,FLUOROSCENCE,BLK,N0N-BINDING,NS,BK,25/100",100,CORNING," $6,848.97 ",MXN,N/A," $9,784.24 ",Evert Ramirez,08/01/2025,,,
+3991,"PLT,96WL,BLK,NBS,NS,BK,5/25",25,CORNING," $2,337.65 ",MXN,N/A," $3,339.50 ",Evert Ramirez,08/01/2025,,,
+3359,"PLT,96WL,UB,PP,NT,WO/LID,S,BK,25/100",100,CORNING," $3,476.48 ",MXN,N/A," $4,966.40 ",Evert Ramirez,08/01/2025,,,
+3364,"PLT,96WL,FB,PP,WO/LID,NS,BK,25/100",100,CORNING," $3,287.50 ",MXN,N/A," $4,696.43 ",Evert Ramirez,08/01/2025,,,
+3365,"PLT,96WL,RB,PP,WO/LID,NS,BK,25/100",100,CORNING," $3,323.71 ",MXN,N/A," $4,748.16 ",Evert Ramirez,08/01/2025,,,
+3879,"PLATE,96WL,ROUND BOTTOM,PP,WITH CORNER NOTCH,ST,IND,1/50",50,CORNING," $2,514.45 ",MXN,N/A," $3,592.07 ",Evert Ramirez,08/01/2025,,,
+3098,"LID,UNIVERSAL,NT,PS,S,BK,25/100",100,CORNING," $2,024.38 ",MXN,N/A," $2,891.97 ",Evert Ramirez,08/01/2025,,,
+3099,"LID,UNIVERSAL,CORNER NOTCH,NT,S,BK,25/50",50,CORNING, $751.92 ,MXN,N/A," $1,074.17 ",Evert Ramirez,08/01/2025,,,
+3931,"LID,RIGID STYRENE,CORNER NOTCH,S,BK,25/50",50,CORNING, $983.86 ,MXN,N/A," $1,405.52 ",Evert Ramirez,08/01/2025,,,
+3935,"LID,BLK, UNIVERSAL,CORNER NOTCH,S,BK,25/50",50,CORNING, $698.76 ,MXN,N/A, $998.23 ,Evert Ramirez,08/01/2025,,,
+8161,"SPINX FLTR,2ML,.22UM,CA,NS,BK,25BAG/100",100,CORNING," $3,229.92 ",MXN,N/A," $4,614.18 ",Evert Ramirez,08/01/2025,,,
+8162,"SPINX FLTR,2ML,.45UM,CA,S,BK,24/96",96,CORNING," $4,334.24 ",MXN,N/A," $6,191.77 ",Evert Ramirez,08/01/2025,,,
+8169,"SPINX FLTR,2ML,.22UM,NY,NS,BK,100BAG/200",200,CORNING," $8,707.73 ",MXN,N/A," $12,439.62 ",Evert Ramirez,08/01/2025,,,
+8393,"BOTTLE,500ML,.45MM,PS,W/CAP,S,IND,1/12",12,CORNING, $560.22 ,MXN,N/A, $800.32 ,Evert Ramirez,08/01/2025,,,
+8396,"BOTTLE,1000ML,.45MM,PS,W/CAP,S,IND,1/12",12,CORNING, $862.84 ,MXN,N/A," $1,232.64 ",Evert Ramirez,08/01/2025,,,
+3956,"PLT,96WL,ASSAY BLOCK,VB,PP,WO/LID,S,BK,10/50",50,CORNING," $3,846.63 ",MXN,N/A," $5,495.18 ",Evert Ramirez,08/01/2025,,,
+3958,"PLT,96WL,ASSAY BLOCK,1ML,STANDARD,S,BK,5/25",25,CORNING," $2,020.89 ",MXN,N/A," $2,886.98 ",Evert Ramirez,08/01/2025,,,
+3960,"PLT,96WL,ASSAY BLOCK,2ML,STANDARD,S,BK,5/25",25,CORNING," $2,471.50 ",MXN,N/A," $3,530.71 ",Evert Ramirez,08/01/2025,,,
+4512,"PLT,384W,WHT,LOW VOLUME,RB,NT,NO LID,NS,BK,10/50",50,CORNING," $11,042.77 ",MXN,N/A," $15,775.38 ",Evert Ramirez,08/01/2025,,,
+3003,"SPATULA,TAPERED BLADE/SPOON,S,IND,1/100",100,CORNING," $1,658.98 ",MXN,N/A," $2,369.97 ",Evert Ramirez,08/01/2025,,,
+3004,"SPATULA, SMALL SPOON/SPOON,S,IND,1/100",100,CORNING," $1,783.41 ",MXN,N/A," $2,547.73 ",Evert Ramirez,08/01/2025,,,
+3005,"SPATULA,ROUND END/SPOON,S,IND,1/100",100,CORNING," $1,783.41 ",MXN,N/A," $2,547.73 ",Evert Ramirez,08/01/2025,,,
+3006,"SPATULA,V SCOOP/SPOON,S,IND,1/100",100,CORNING," $1,783.41 ",MXN,N/A," $2,547.73 ",Evert Ramirez,08/01/2025,,,
+3007,"SPATULA,FLAT END/SPOON,S,IND,1/100",100,CORNING," $1,783.41 ",MXN,N/A," $2,547.73 ",Evert Ramirez,08/01/2025,,,
+3012,"MICRO SPATULA-SCOOP,TAPERED BOTTOM,S,IND,1/50",50,CORNING, $711.21 ,MXN,N/A," $1,016.02 ",Evert Ramirez,08/01/2025,,,
+3013,"MICRO SPATULA-SCOOP,ROUND BOTTOM,S,IND,1/50",50,CORNING, $687.45 ,MXN,N/A, $982.07 ,Evert Ramirez,08/01/2025,,,
+430179,"CONTAINER,250ML,W/LID,PP,S,IND,1/100",100,CORNING," $2,685.70 ",MXN,N/A," $3,836.72 ",Evert Ramirez,08/01/2025,,,
+4071,"LAMBDA PLUS SINGLE CHANNEL PIPETTOR,0.5 TO 10UL,AUTOCLAVABLE",1,CORNING," $2,893.04 ",MXN,N/A," $4,132.91 ",Evert Ramirez,08/01/2025,,,
+4072,"LAMBDA PLUS SINGLE CHANNEL PIPETTORS,2 TO 20UL,AUTOCLAVABLE",1,CORNING," $2,893.04 ",MXN,N/A," $4,132.91 ",Evert Ramirez,08/01/2025,,,
+4073,"LAMBDA PLUS SINGLE CHANNEL PIPETTOR,10 TO 100UL,AUTOCLAVABLE",1,CORNING," $3,970.85 ",MXN,N/A," $5,672.64 ",Evert Ramirez,08/01/2025,,,
+4074,"LAMBDA PLUS SINGLE CHANNEL PIPETTOR,20 TO 200UL,AUTOCLAVABLE",1,CORNING," $3,970.85 ",MXN,N/A," $5,672.64 ",Evert Ramirez,08/01/2025,,,
+4075,"LAMBDA PLUS SINGLE CHANNEL PIPETTOR,100 TO 1000UL,AUTOCLAVAB",1,CORNING," $2,893.04 ",MXN,N/A," $4,132.91 ",Evert Ramirez,08/01/2025,,,
+4078,UNIVERSAL CAROUSEL RACK FOR SIX PIPETTES,1,CORNING," $2,650.12 ",MXN,N/A," $3,785.88 ",Evert Ramirez,08/01/2025,,,
+4079,UNIVERSAL LINEAR RACK FOR SIX PIPETTES,1,CORNING," $2,282.39 ",MXN,N/A," $3,260.56 ",Evert Ramirez,08/01/2025,,,
+4080,"LAMBDA PLUS PIPETTOR 8 CHANNEL,1 TO 10UL",1,CORNING," $7,355.12 ",MXN,N/A," $10,507.32 ",Evert Ramirez,08/01/2025,,,
+4081,"LAMBDA PLUS PIPETTOR 8 CHANNEL,5 TO 50UL",1,CORNING," $7,401.86 ",MXN,N/A," $10,574.09 ",Evert Ramirez,08/01/2025,,,
+4082,"LAMBDA PLUS PIPETTOR 8 CHANNEL,20 TO 200UL",1,CORNING," $7,323.26 ",MXN,N/A," $10,461.80 ",Evert Ramirez,08/01/2025,,,
+4082-ALT,Corning® 20-200 µL Lambda™ Plus 8 Channel ISO17025 3x4,1,CORNING," $8,625.26 ",MXN,N/A," $12,321.80 ",Evert Ramirez,08/01/2025,,,
+4083,"LAMBDA PLUS PIPETTOR 8 CHANNEL,50 TO 300UL",1,CORNING," $7,390.76 ",MXN,N/A," $10,558.22 ",Evert Ramirez,08/01/2025,,,
+4084,"LAMBDA PLUS PIPETTOR 12 CHANNEL,1 TO 10UL",1,CORNING," $8,832.16 ",MXN,N/A," $12,617.37 ",Evert Ramirez,08/01/2025,,,
+4087,"LAMBDA PLUS PIPETTOR 12 CHANNEL,50 TO 300UL",1,CORNING," $8,758.43 ",MXN,N/A," $12,512.04 ",Evert Ramirez,08/01/2025,,,
+6050,Corning 0.1-2 µL Lambda EliteTouch Single-Channel Pipettor,1,CORNING," $4,472.36 ",MXN,N/A," $6,389.08 ",Evert Ramirez,08/01/2025,,,
+6051,Corning 0.5-10 µL Lambda EliteTouch Single-Channel Pipettor,1,CORNING," $3,375.28 ",MXN,N/A," $4,821.82 ",Evert Ramirez,08/01/2025,,,
+6053,Corning 5-50 µL Lambda EliteTouch Single-Channel Pipettor,1,CORNING," $4,384.66 ",MXN,N/A," $6,263.81 ",Evert Ramirez,08/01/2025,,,
+6054,Corning 10-100 µL Lambda EliteTouch Single-Channel Pipettor,1,CORNING," $3,235.23 ",MXN,N/A," $4,621.75 ",Evert Ramirez,08/01/2025,,,
+6055,Corning 20-200 µL Lambda EliteTouch Single-Channel Pipettor,1,CORNING," $4,384.66 ",MXN,N/A," $6,263.81 ",Evert Ramirez,08/01/2025,,,
+6056,Corning 100-1000 µL Lambda EliteTouch Single-Channel Pipettor,1,CORNING," $4,472.36 ",MXN,N/A," $6,389.08 ",Evert Ramirez,08/01/2025,,,
+6058,Corning 5-50 µL Lambda EliteTouch 8-Channel Pipettor,1,CORNING," $11,427.77 ",MXN,N/A," $16,325.38 ",Evert Ramirez,08/01/2025,,,
+6059,Corning 20-200 µL Lambda EliteTouch 8-Channel Pipettor,1,CORNING," $8,158.48 ",MXN,N/A," $11,654.97 ",Evert Ramirez,08/01/2025,,,
+6063,Corning 20-200 µL Lambda EliteTouch 12- Channel Pipettor,1,CORNING," $13,425.35 ",MXN,N/A," $19,179.07 ",Evert Ramirez,08/01/2025,,,
+6621,"Corning,  Syringe Tips, 0.5mL",100,CORNING," $1,069.89 ",MXN,N/A," $1,528.41 ",Evert Ramirez,08/01/2025,,,
+6622,"Corning,  Syringe Tips, 1.25mL",100,CORNING," $1,069.89 ",MXN,N/A," $1,528.41 ",Evert Ramirez,08/01/2025,,,
+3340,"PLT,96WL,Corning CellBIND Surface,BCB,W/LID,S,BK,5/50",50,CORNING," $5,419.34 ",MXN,N/A," $7,741.92 ",Evert Ramirez,08/01/2025,,,
+3809,"CORNING 96 WELL CLEAR FLAT BOTTOM CELLBIND TREATED POLYSTYRENE MICROPLATE, WITH LID, STERILE, 100/CASE",100,CORNING," $11,754.59 ",MXN,N/A," $16,792.28 ",Evert Ramirez,08/01/2025,,,
+3338,"PLT,48WL,CellBIND SURFACE,FB,W/LID,S,IND,5/50",50,CORNING," $3,206.68 ",MXN,N/A," $4,580.97 ",Evert Ramirez,08/01/2025,,,
+3294,"Corning CellBIND Surface,DISH,35X10MM,PS,W/LID,S,BK,10/210",210,CORNING," $5,864.51 ",MXN,N/A," $8,377.87 ",Evert Ramirez,08/01/2025,,,
+3296,"Corning CellBIND Surface,DISH,100X10MM,PS,W/LID,S,BK,5/40",40,CORNING," $2,252.05 ",MXN,N/A," $3,217.21 ",Evert Ramirez,08/01/2025,,,
+3293,"Corning CellBIND Surface,FLASK,225CM2,CANTED,PS,VENT CAP,S,BK,5/25",25,CORNING," $3,171.24 ",MXN,N/A," $4,530.34 ",Evert Ramirez,08/01/2025,,,
+431466,"FLASK,175CM2,ANG,VENT,PS,NON-TREATEDS,BK,5/50",50,CORNING," $3,139.98 ",MXN,N/A," $4,485.69 ",Evert Ramirez,08/01/2025,,,
+430196,"DISH,60X15MM,GRID,TCT,PS,S,BK,20/500",500,CORNING," $2,858.55 ",MXN,N/A," $4,083.64 ",Evert Ramirez,08/01/2025,,,
+430588,"DISH,35X10MM,NT,PS,S,BK,20/500",500,CORNING," $2,053.52 ",MXN,N/A," $2,933.60 ",Evert Ramirez,08/01/2025,,,
+430589,"DISH,60X15MM,NT,PS,S,BK,20/500",500,CORNING," $2,659.08 ",MXN,N/A," $3,798.68 ",Evert Ramirez,08/01/2025,,,
+430597,"DISH,150X25MM,NT,PS,S,BK,5/60",60,CORNING," $1,738.75 ",MXN,N/A," $2,483.93 ",Evert Ramirez,08/01/2025,,,
+431111,"DISH,245X245MM,NT,PS,S,BK,4/16",16,CORNING," $1,883.64 ",MXN,N/A," $2,690.91 ",Evert Ramirez,08/01/2025,,,
+431272,"DISH,BIOASSAY,245MM SQUARE,S,BK,4/16",16,CORNING," $1,903.66 ",MXN,N/A," $2,719.52 ",Evert Ramirez,08/01/2025,,,
+431301,"DISH,BIO ASSAY,SQUARE,LOW PROFILE,S,BK,5/20",20,CORNING," $2,650.49 ",MXN,N/A," $3,786.42 ",Evert Ramirez,08/01/2025,,,
+430236,"SUPPORT CUSHION,250ML,PC,IND,NS,1/6",6,CORNING," $1,532.78 ",MXN,N/A," $2,189.69 ",Evert Ramirez,08/01/2025,,,
+AC18.10657.0100,Basalt (tholeiitic); Quaternary,50G,AnalytiChem,$315.70,CAD,15%,$568.26,Cristian Ascencio,14/02/2025,,,
+AC18.10658.0100,Greenstone (ophiolite); Cambrian,50G,AnalytiChem,$315.70,CAD,15%,$568.26,Cristian Ascencio,14/02/2025,,,
+AC18.10659.0100,Gabbronorite; Mesoproterozoic,50G,AnalytiChem,$315.70,CAD,15%,$568.26,Cristian Ascencio,14/02/2025,,,
+AC18.10660.0100,Slate; Proterozoic,50G,AnalytiChem,$315.70,CAD,15%,$568.26,Cristian Ascencio,14/02/2025,,,
+AC18.10661.0100,Hypersthene Andesite; Carboniferous,50G,AnalytiChem,$315.70,CAD,15%,$568.26,Cristian Ascencio,14/02/2025,,,
+AC18.10662.0100,Granodiorite (S-Type); Devonian,50G,AnalytiChem,$315.70,CAD,15%,$568.26,Cristian Ascencio,14/02/2025,,,
+AC18.10663.0100,"Siltstone, Upper Silurian",50G,AnalytiChem,$315.70,CAD,15%,$568.26,Cristian Ascencio,14/02/2025,,,
+AC18.10664.0100,Black Mass: Li-NMC batteries ,40G,AnalytiChem,$828.30,CAD,15%,"$1,490.94",Cristian Ascencio,14/02/2025,,,
+AC18.10665.0100,Black Mass: Li-NMC batteries (622/811),40G,AnalytiChem,$828.30,CAD,15%,"$1,490.94",Cristian Ascencio,14/02/2025,,,
